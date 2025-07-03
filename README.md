@@ -12,7 +12,7 @@ I'm a final-year Computer Engineering student at Sarvajanik College of Engineeri
 - 🌱 I'm learning advanced AI/ML techniques and modern web frameworks
 - 👯 Looking to collaborate on projects involving AI, web development, or cybersecurity
 - 💬 Ask me about my Smart Traffic Signal System project or meeting summarization tool
-- 📚 CGPA: 8.62/10
+- 📚 CGPA: 8.39/10
 
 ## 🛠️ Technical Skills
 
